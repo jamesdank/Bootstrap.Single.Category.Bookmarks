@@ -6,4 +6,4 @@
    you can add multiple users by adding a comma and another pair, $logins = array('username123' => 'password123', 'john' => 'password123');
 3. To add the drop downmenu to a page all you have to do is add an include file bookmarks.dropdown.menu.inc.php where you want the bookmark dropdown menu.
 4. I haven't yet added the ability to add categories but it will be updated later, you'll have to enter those in manually, to add bookmarks use bookmark.insert.php ,
-   I don't plan on adding the ability to edit or delete bookmark categories or bookmarks.
+   it is password protected change the username and password with the instructions above.  I don't plan on adding the ability to edit or delete categories or bookmarks.
